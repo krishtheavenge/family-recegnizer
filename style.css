@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(182, 170, 11);
+    color: black;
+}
+.heading{
+    font-size: 25px;
+    width: 50%;
+}
+.name_of_members{
+    font-size: 20;
+}
+#cam{
+    border: 5px solid rgb(255, 0, 0);
+    width:200px;
+    height:200px;
+}
+#member{
+    color:red;
+}
+#accuracy{
+    color:red;
+}
